@@ -6,7 +6,7 @@
  //         to the base class object. The polymorphic behavior occurs when
  //         calling a virtual function with dynamic binding. 
  //         
- //Author: Owen Tanner Wilkerson (and Yi Pike on given files)
+ //Author: Owen Tanner Wilkerson (and Yi Pike of University of Kentucky on given files)
 
 #include <iostream>
 #include <vector>
